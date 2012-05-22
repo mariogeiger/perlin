@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/shader">
+        <file>perlinnoise2d.frag</file>
+        <file>perlinnoise2d.vert</file>
+    </qresource>
+</RCC>
